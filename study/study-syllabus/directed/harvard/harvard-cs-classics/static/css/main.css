@@ -1,0 +1,11 @@
+.table-container {
+    padding: 10px;
+}
+
+.header-padding {
+    padding: 10px;
+}
+
+.column-class {
+    min-width: 200px;
+}

@@ -1,0 +1,44 @@
+<html>
+<head>
+<link  rel="stylesheet" href="/static/css/vendor/bootstrap.min.css">
+<link rel="stylesheet" href="/static/css/vendor/bootstrap-table.css">
+<link rel="stylesheet" href="/static/css/main.css">
+
+<script src="/static/js/vendor/jquery.min.js"></script>
+<script src="/static/js/vendor/bootstrap.min.js"></script>
+<script src="/static/js/vendor/bootstrap-table.js"></script>
+<script src="/static/js/main.js"></script>
+</head>
+
+<h1 class="header-padding">Classics of Computer Science</h1>
+<p class="header-padding"><a href="/cs191.html">CS191</a> | <a href="/master.html">MASTER LIST</a></p>
+
+<div class="table-container">
+
+    <table data-toggle="table" data-search="true" data-url="/data/data.json" data-sort-name="class" data-sort-order="asc">
+      <thead>
+        <tr>
+        <th data-field="class" data-sortable="true">
+          Class
+        </th>
+        <th data-field="topic" data-sortable="true">
+          Topic
+        </th>
+          <th data-field="date" data-sortable="true">
+            Date
+          </th>
+          <th data-field="author" data-sortable="true">
+            Author
+          </th>
+          <th data-field="name" data-sortable="true">
+            Name
+          </th>
+          <th data-field="link" data-formatter="LinkFormatter" data-sortable="false">
+            Link
+          </th>
+        </tr>
+      </thead>
+    </table>
+
+</div>
+<p>Last updated 02/5/18 - 12:08PM EST</p>

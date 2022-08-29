@@ -7,6 +7,3 @@
 [submodule "my-projects"]
 	path = my-projects
 	url = git@github.com:jocelinqueau/my-projects.git
-[submodule "prog"]
-	path = prog
-	url = git@github.com:jocelinqueau/prog.git

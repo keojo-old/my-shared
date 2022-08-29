@@ -1,12 +1,3 @@
-# [submodule "projects"]
-# 	path = projects
-# 	url = git@github.com:jocelinqueau/my-shared.git
-# [submodule "maths"]
-# 	path = maths
-# 	url = ./maths/
-# [submodule "notes"]
-# 	path = notes
-# 	url = ./notes
-# [submodule "prog"]
-# 	path = prog
-# 	url = ./prog/
+[submodule "maths"]
+	path = maths
+	url = git@github.com:jocelinqueau/maths.git

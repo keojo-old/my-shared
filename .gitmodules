@@ -1,0 +1,9 @@
+[submodule "projects"]
+	path = projects
+	url = ./projects/
+[submodule "maths"]
+	path = maths
+	url = ./maths/
+[submodule "notes"]
+	path = notes
+	url = ./notes

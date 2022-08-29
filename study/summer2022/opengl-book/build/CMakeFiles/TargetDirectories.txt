@@ -1,0 +1,3 @@
+/Users/jocelinqueau/Desktop/study/summer2022/opengl-book/build/CMakeFiles/GL.dir
+/Users/jocelinqueau/Desktop/study/summer2022/opengl-book/build/CMakeFiles/edit_cache.dir
+/Users/jocelinqueau/Desktop/study/summer2022/opengl-book/build/CMakeFiles/rebuild_cache.dir

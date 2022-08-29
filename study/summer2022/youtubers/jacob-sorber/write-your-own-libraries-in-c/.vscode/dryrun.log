@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/jocelinqueau/Desktop/study/summer2022/youtubers/jacob-sorber/write-your-own-libraries-in-c'
+make: Nothing to be done for `all'.
+make: Leaving directory `/Users/jocelinqueau/Desktop/study/summer2022/youtubers/jacob-sorber/write-your-own-libraries-in-c'
+ 

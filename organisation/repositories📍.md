@@ -1,0 +1,47 @@
+# Repositories
+
+## Bureau
+
+- **organisation**
+  - this folder is relative to how i organise
+    - `learning.md`
+    - `organisation.md`
+    - `repositories.md`
+- **job-interview**
+  - this folder is for feedback from job interviews
+    - newic
+    - fulll
+    - october
+    - contentsquare
+- **my-projects**
+- **fulll**
+  - db-proxy
+  - portal-production
+  - my-refull (tried to remake db-proxy core functionalities)
+  - all.zip
+- **katas**
+  - exercism
+  - feedback
+- **every-layout**
+  - framework-take
+  - my-notes
+  - others-take
+  - references
+- **my-porjects**
+  - open-source-me
+- **my-notes**
+  - ember-notes
+  - my-references-own
+  - responsiveComp
+    - ShrinkGrow.js
+- **frontendmentors**
+  - 3-columns-cards
+  - references
+    - base.css
+- **temp**
+  - ...
+- **learning(framework|tutorial)**
+  - languages
+    - ocaml
+  - framework
+    - ember
